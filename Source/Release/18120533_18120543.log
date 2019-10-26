@@ -1,0 +1,10 @@
+﻿  Ball.cpp
+  Graphics_and_Mager.cpp
+e:\18120533_18120543\18120533_18120543\graphics_and_mager.cpp(43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Menu.cpp
+  Player.cpp
+  Generating code
+  All 51 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  18120533_18120543.vcxproj -> E:\18120533_18120543\Release\18120533_18120543.exe

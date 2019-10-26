@@ -1,0 +1,7 @@
+﻿  Graphics_and_Mager.cpp
+e:\18120533_18120543\18120533_18120543\graphics_and_mager.cpp(43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Menu.cpp
+  Player.cpp
+  main.cpp
+  Generating Code...
+  18120533_18120543.vcxproj -> E:\18120533_18120543\Debug\18120533_18120543.exe
